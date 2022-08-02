@@ -108,7 +108,7 @@
 
                           <!-- Team Settings -->
                            <x-jet-dropdown-link href="{{ route('activities.index') }}">
-                              Aktiviteler
+                              Tüm Aktiviteler
                            </x-jet-dropdown-link>
                           @endif
 

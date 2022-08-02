@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Auth\AuthServiceProvioder;
 use DB;
-
+use App\Http\Requests\UserCreateRequest;
 class Maincontroller extends Controller
 {
     /**
